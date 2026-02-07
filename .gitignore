@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Mac OS
+.DS_Store
+
+# Virtual Environments
+venv/
+env/
+.env
+
+# Model files (if you don't want to upload large files)
+# *.npz
