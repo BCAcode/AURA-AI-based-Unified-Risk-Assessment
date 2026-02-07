@@ -181,7 +181,7 @@ Sorumluluk: YOK
 ## Atıf
 
 ```text
-BCAcode. (2026). AURA: Yangın Risk Tahmin Sistemi (Versiyon 2.0) [Bilgisayar Yazılımı]. https://github.com/BCAcode/AURA-AI-based-Unified-Risk-Assessment
+BCAcode. (2026). AURA: Wildfire Risk Prediction System (Versiyon 2.0) [Bilgisayar Yazılımı]. https://github.com/BCAcode/AURA-AI-based-Unified-Risk-Assessment
 ```
 
 ---
