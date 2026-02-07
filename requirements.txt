@@ -1,0 +1,8 @@
+mlx
+mlx-nn
+numpy
+matplotlib
+scipy
+pillow
+requests
+urllib3
